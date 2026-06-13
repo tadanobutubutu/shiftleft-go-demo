@@ -1,5 +1,12 @@
 # GoVWA
 
+
+<!-- AUTO-PACKAGE-BADGES:START -->
+<!-- Auto-generated package badges -->
+
+![Go Reference](https://img.shields.io/github/v/tag/ShiftLeftSecurity/shiftleft-go-demo?style=flat-square&logo=go&label=go.mod&color=00add8) [![Deployed](https://img.shields.io/badge/deployed-latest-blue?style=flat-square)](https://pkg.go.dev/github.com/ShiftLeftSecurity/shiftleft-go-demo)
+
+<!-- AUTO-PACKAGE-BADGES:END -->
 GoVWA (Go Vulnerable Web Application) is a web application developed to help the pentester and programmers to learn the vulnerabilities that often occur in web applications which is developed using golang. Vulnerabilities that exist in GoVWA are the most common vulnerabilities found in web applications today. So it will help programmers recognize vulnerabilities before they happen to their application. Govwa can also be an additional application of your pentest lab for learning and teaching.
 
 This was formerly known as <https://github.com/0c34/govwa>, package name
